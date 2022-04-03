@@ -8,3 +8,7 @@ Using Python Tweepy and Apache Kafka. Data is streamed from Twitter's API contai
 - You will need to create a topic named 'crypto' in Kafka or alter the code accordingly.
 - Data captured is tweet time, username, price at tweet, and count of mentions. Allows analyses to be conducted based on price movement and social activity for select currencies.
 - The database.py file will need to be updated with the user's MySQL login information.
+
+Create the below schema to pass data to
+
+![image](https://user-images.githubusercontent.com/73361532/161415554-073d77ba-7851-422f-bc9d-3771b20e9b65.png)
