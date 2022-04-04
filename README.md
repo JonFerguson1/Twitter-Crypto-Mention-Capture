@@ -12,3 +12,6 @@ Using Python Tweepy and Apache Kafka. Data is streamed from Twitter's API contai
 Create the below schema to pass data to
 
 ![image](https://user-images.githubusercontent.com/73361532/161415554-073d77ba-7851-422f-bc9d-3771b20e9b65.png)
+
+
+![image](https://user-images.githubusercontent.com/73361532/161484036-cb11bea1-e6b3-484f-a234-4e08ebbd4500.png)
