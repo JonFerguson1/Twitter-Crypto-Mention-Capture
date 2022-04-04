@@ -15,3 +15,7 @@ Create the below schema to pass data to
 
 
 ![image](https://user-images.githubusercontent.com/73361532/161484036-cb11bea1-e6b3-484f-a234-4e08ebbd4500.png)
+
+![image](https://user-images.githubusercontent.com/73361532/161503272-d5e6f002-ace9-4fbe-bef9-98dc3f09ea7f.png)
+
+![image](https://user-images.githubusercontent.com/73361532/161503492-d7b33a2f-111a-48c4-bed3-9a47693ffcf7.png)
